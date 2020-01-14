@@ -7,11 +7,9 @@ products:
 extensions:
 - services: Compute
 - platforms: dotnet
-description: "Azure Compute sample for managing virtual machines."
-urlFragment: getting-started-managing-resources
 ---
 
-# Getting started on managing Azure resources from a managed service identity (MSI) enabled virtual machine that belongs to an Azure Active Directory (AAD) security group using C#
+# Getting started on managing Azure resources from a managed service identity (MSI) enabled virtual machine that belongs to an Azure Active Directory (AAD) security group using C# #
 
  Azure Compute sample for managing virtual machines -
    - Create a AAD security group
