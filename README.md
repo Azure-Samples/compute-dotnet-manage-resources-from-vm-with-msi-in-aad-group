@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-- services: Compute
-- platforms: dotnet
+  services: Compute
+  platforms: dotnet
 ---
 
 # Getting started on managing Azure resources from a managed service identity (MSI) enabled virtual machine that belongs to an Azure Active Directory (AAD) security group using C# #
